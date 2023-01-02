@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+    color: blue;
+}
+
+h1 {
+    color: rgb(255,0,0);
+    color: #808000;
+    font-size: 2em;
+}
+
+h2 {
+    color: red;
+    border: 1px solid currentColor;
+    border-left: none;
+}
+
+#adresse {
+    font-size: 1.2em;
+}
+
+:root {
+    font-size: 16px;
+}
+.blue {
+    color: aliceblue;
+}
